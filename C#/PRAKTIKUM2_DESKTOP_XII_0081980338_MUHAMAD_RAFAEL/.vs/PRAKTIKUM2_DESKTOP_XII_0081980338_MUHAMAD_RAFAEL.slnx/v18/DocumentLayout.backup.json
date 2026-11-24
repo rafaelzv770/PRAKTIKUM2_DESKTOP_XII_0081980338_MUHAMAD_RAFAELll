@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\C#\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3FBBD4-BBAB-43A1-89DC-5E0B11F96451}|PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL.csproj|d:\\praktikum2_desktop_xii_0081980338_muhamad_rafael\\c#\\praktikum2_desktop_xii_0081980338_muhamad_rafael\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3FBBD4-BBAB-43A1-89DC-5E0B11F96451}|PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3FBBD4-BBAB-43A1-89DC-5E0B11F96451}|PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL.csproj|d:\\praktikum2_desktop_xii_0081980338_muhamad_rafael\\c#\\praktikum2_desktop_xii_0081980338_muhamad_rafael\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D3FBBD4-BBAB-43A1-89DC-5E0B11F96451}|PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\C#\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\C#\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABYAAACAzAcEOkMowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:31:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\C#\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\C#\\PRAKTIKUM2_DESKTOP_XII_0081980338_MUHAMAD_RAFAEL\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T00:19:21.143Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
